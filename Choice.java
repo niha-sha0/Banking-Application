@@ -15,7 +15,7 @@ import javax.swing.JScrollPane;
 import javax.swing.SwingUtilities;
 import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
-
+                    
 import com.sun.javafx.property.adapter.PropertyDescriptor.Listener;
 import com.sun.javafx.scene.control.SelectedCellsMap;
 
